@@ -14,7 +14,7 @@
        - [@octuzayz](https://www.youtube.com/@octuzayz/videos) `ar`
     
      
-![1337](./standard j.gif)
+![1337](./standard-j.gif)
 
 
 
