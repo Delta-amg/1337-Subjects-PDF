@@ -2,11 +2,11 @@
  ## This repository contains a PDF Subjects of pool in 1337 :
    #### Shell
    -  From : 00 to 01
-   ### C
+   #### C
    - From : 00 to 13
-   ### Rush
+   #### Rush
    -  From :00 to 02
-   ### BSQ
+   #### BSQ
 
 
  ## Learnging basics :
