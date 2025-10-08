@@ -10,3 +10,9 @@
  ## Learnging basics :
    - If you're looking for a YouTube channel to learn the basics of C programming, I recommend this channel 
        - [@MoroccanCoding](https://www.youtube.com/@MoroccanCoding)
+
+
+
+
+
+< FUTURE: IS_LOADING... />
