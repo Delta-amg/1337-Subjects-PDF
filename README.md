@@ -1,10 +1,15 @@
 # 1337-Subjects-PDF
- ## 💬 This repository contains a PDF Subjects for the pool in 1337 :
+ ## 💬 This repository contains :
+ ### PDF Subjects for the pool in 1337 :
    
    - **Shell** [ From : 00 to 01 ]
    - **C**  [ From : 00 to 13 ]
    - **Rush** [ From :00 to 02 ]
-   - **BSQ** 
+   - **BSQ**
+
+### Corrections :
+   - **Shell** [ From : 00 to 01 ]
+   - **C**  [ From : 00 to 08 ]
 
  ## Learnging basics :
    - If you're looking for a YouTube channels to learn the basics of C programming, I recommend this channels :
@@ -18,5 +23,5 @@
 
 
 
-
+ Good luck <3
 < FUTURE: IS_LOADING... />
